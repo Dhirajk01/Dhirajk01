@@ -1,5 +1,9 @@
+<div align="center">
+  <img src="assets/banner.png" alt="Dhiraj Kumar" width="100%">
+</div>
+
 # 💫 About Me:
-Hi, I'm Dhiraj Kumar<br><br>🎓 MCA student at MANIT Bhopal<br><br>🌱 Learning React.js and modern web technologies<br>💻 Building projects with HTML, CSS, JavaScript, and Tailwind CSS<br>🧩 Practicing Data Structures and Algorithms in C++<br>🚀 Looking for opportunities to grow as a software developer
+<br>🎓 MCA student at MANIT Bhopal<br><br>🌱 Learning React.js and modern web technologies<br>💻 Building projects with HTML, CSS, JavaScript, and Tailwind CSS<br>🧩 Practicing Data Structures and Algorithms in C++<br>🚀 Looking for opportunities to grow as a software developer
 
 
 ## 🌐 Socials:
